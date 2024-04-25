@@ -1,2 +1,0 @@
-# trabalhoABC.c
-trabalho individual
